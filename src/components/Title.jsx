@@ -16,11 +16,9 @@ const Title = () => {
         </div>
         <div className="text-center py-2">
           <h1 className="font-semibold text-4xl tracking-wide text-yellow-700/90 mb-4">
-            Upload your images
+            Upload images
           </h1>
-          <p className="text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, est?
-          </p>
+          <p className="text-gray-600">上傳喜歡的圖片吧</p>
         </div>
       </div>
     </div>

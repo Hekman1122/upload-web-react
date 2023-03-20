@@ -28,7 +28,7 @@ const UploadForm = () => {
             className="opacity-0 w-0 h-0 outline-none"
           />
           <span className="border font-semibold tracking-wider border-yellow-700 rounded-md cursor-pointer opacity-70 hover:opacity-100 duration-200 px-4 py-2">
-            File Upload
+            上傳檔案
           </span>
         </label>
         <div className="mt-4">
